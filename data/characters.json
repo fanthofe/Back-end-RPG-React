@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "Megaman",
+        "level": 15,
+        "maxHealth": 177,
+        "img": "/assets/megaman.png",
+        "magic": 32,
+        "attack": 50,
+        "defense": 30,
+        "magicDefense": 25
+    },
+    {
+        "id": 2,
+        "name": "Samus",
+        "level": 13,
+        "maxHealth": 188,
+        "img": "/assets/samus.png",
+        "magic": 50,
+        "attack": 32,
+        "defense": 20,
+        "magicDefense": 48
+    }
+]
